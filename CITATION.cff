@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: MCQ assessments
+message: "If you use this data, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - family-names: Shakiba
+    given-names: Mohammad
+    affiliation: University at Buffalo, State University of New York
+    email: mshakiba@buffalo.edu
+    orcid: 0000-0002-4110-7627
+  - family-names: Mukherjee
+    given-names: Saikat
+    email: saikatdip@gmail.com
+    affiliation: Nicolaus Copernicus University
+    orcid: 0000-0002-0025-4735
+repository-code: https://github.com/AkimovLab/Project_NAMD_assessment
+repository: https://github.com/AkimovLab/Project_NAMD_assessment
+abstract: "This repository contains scripts for conducting nonadadiabatic molecular dynamics (NAMD) calculations for 
+spin-boson Hamiltonian model using a variety of mixed quantum-classical methodologies implemented in Libra. 
+The repository also contains the results of such 
+calculations (state populations vs time) as well as the reference data obtained via ML-MCTDH calculations."
+keywords:
+  - trajectory surface hopping
+  - nonadiabatic dynamics
+  - quantum dynamics
+  - excited states
+  - FSSH
+  - FSSH-2
+  - GFSH
+  - SDM
+  - EDC
+  - IDA
+  - exact factorization
+  - ML-MCTDH
+license: GPL-3.0+
+version: 1.0.0
+date-released: 2025-11-27
+
